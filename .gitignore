@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-*.DS_Store
+.DS_Store
 */.DS_Store
 */*/.DS_Store
+.node_modules
 */node_modules
-*/*/.node_modules
+*/*/node_modules
 Solucion
 */Solucion
 */*/Solucion
+*.psd
