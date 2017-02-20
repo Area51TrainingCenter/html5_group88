@@ -6,19 +6,19 @@ var gulp    = require('gulp'),
 gulp.task('serve', ['sass'], function() {
 
     browserSync.init({
-        server: "Clase-02/Solucion",
+        server: "Clase-03/Solucion",
         port: 1500
     });
 
-    gulp.watch("Clase-02/Solucion/*.scss", ['sass']).on('change', browserSync.reload);
-    gulp.watch("Clase-02/Solucion/*.html").on('change', browserSync.reload);
-    gulp.watch("Clase-02/Solucion/*.js").on('change', browserSync.reload);
+    gulp.watch("Clase-03/Solucion/*.scss", ['sass']).on('change', browserSync.reload);
+    gulp.watch("Clase-03/Solucion/*.html").on('change', browserSync.reload);
+    gulp.watch("Clase-03/Solucion/*.js").on('change', browserSync.reload);
 });
 
 gulp.task("sass", function(){
-  return gulp.src('Clase-02/Solucion/*.scss')
+  return gulp.src('Clase-03/Solucion/*.scss')
   .pipe(sass({ outputStyle: 'compressed'}))
-  .pipe(gulp.dest('Clase-02/Solucion/'));
+  .pipe(gulp.dest('Clase-03/Solucion/'));
 });
 
 gulp.task('default', ['serve']);
