@@ -19,4 +19,5 @@ Nota: En este ejercicio es fundamental que el alumno utilice lo que aprendió so
   - `text-decoration`
   - `text-shadow`
   - `border-image`
+  - `display`
   - `visibility`
