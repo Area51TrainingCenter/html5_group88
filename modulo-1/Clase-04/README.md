@@ -6,11 +6,11 @@ Está dentro de la responsabilidad del alumno terminarlo ya que le servirá de p
 
 ## En que consiste el ejercicio
 
-La imagen `ejercicio.png` muestra lo que se debe de replicar en código HTML con las etiquetas y atributos que se mencionan en clase. Además, dentro de la estructura se encuentran las siguientes etiquetas que el alumno debe de investigar y colocar en su respectivo lugar dentro del contenido.
+En el directorio `docs` se encontrarán imagenes de sitios que deben ser replicados en código HTML y usar las propiedades de CSS que se aprendienron en clase. Además, el alumno debe de investigar y utilizar las propiedades que se encuentran en el `README`
 
 Nota: En este ejercicio es fundamental que el alumno utilice lo que aprendió sobre agrupación de elementos a través de las etiquetas HTML5 y `div`
 
-## Lista de valores, atributos y etiquetas a investigar
+## Lista propiedades para usar en la construcción del sitio
 
   - `hsl`
   - `hsla`
