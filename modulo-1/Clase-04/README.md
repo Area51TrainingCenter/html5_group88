@@ -21,3 +21,6 @@ Nota: En este ejercicio es fundamental que el alumno utilice lo que aprendió so
   - `border-image`
   - `display`
   - `visibility`
+  - `opacity`
+  - `font-weight`
+  - `font-style`
