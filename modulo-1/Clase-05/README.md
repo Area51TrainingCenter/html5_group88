@@ -9,3 +9,4 @@ Está dentro de la responsabilidad del alumno terminarlo ya que le servirá de p
 En el directorio `docs` se encontrarán la imagen `ejercicio.png` que contiene una tabla y un formulario que el alumno debe de estructurar y estilizar guiandose de los ejemplos y consejos dados en clase. En caso el alumno llegara a terminar el ejercicio antes del término de la clase es libre de continuar mejorando el ejercicio de las páginas que se dejaron la clase pasada.
 
 Nota: En este ejercicio es fundamental que el alumno utilice lo que aprendió sobre agrupación de elementos a través de las etiquetas HTML5 y `div` además de las propiedades CSS que va aprendiendo a lo largo del curso como también las que investiga.
+  
