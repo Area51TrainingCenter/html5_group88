@@ -6,21 +6,6 @@ Está dentro de la responsabilidad del alumno terminarlo ya que le servirá de p
 
 ## En que consiste el ejercicio
 
-En el directorio `docs` se encontrarán imagenes de sitios que deben ser replicados en código HTML y usar las propiedades de CSS que se aprendienron en clase. Además, el alumno debe de investigar y utilizar las propiedades que se encuentran en el `README`
+En el directorio `docs` se encontrarán la imagen `ejercicio.png` que contiene una tabla y un formulario que el alumno debe de estructurar y estilizar guiandose de los ejemplos y consejos dados en clase. En caso el alumno llegara a terminar el ejercicio antes del término de la clase es libre de continuar mejorando el ejercicio de las páginas que se dejaron la clase pasada.
 
-Nota: En este ejercicio es fundamental que el alumno utilice lo que aprendió sobre agrupación de elementos a través de las etiquetas HTML5 y `div`
-
-## Lista propiedades para usar en la construcción del sitio
-
-  - `hsl`
-  - `hsla`
-  - `letter-spacing`
-  - `word-spacing`
-  - `text-decoration`
-  - `text-shadow`
-  - `border-image`
-  - `display`
-  - `visibility`
-  - `opacity`
-  - `font-weight`
-  - `font-style`
+Nota: En este ejercicio es fundamental que el alumno utilice lo que aprendió sobre agrupación de elementos a través de las etiquetas HTML5 y `div` además de las propiedades CSS que va aprendiendo a lo largo del curso como también las que investiga.
