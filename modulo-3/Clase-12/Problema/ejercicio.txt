@@ -1,0 +1,11 @@
+De que trata el ejercicio?
+
+El ejercicio consta de crear un programa en donde el usuario debe de colocar un sustantivo, adjetivo y un verbo y según estas palabras utilizadas crear diferentes tipos de oraciones
+
+
+Pasos a seguir para hacer el ejercicio
+
+1. Crea las variables que capture estas palabras
+2. Agrega un alert que le diga al usuario que ya ingresaron toda la informacion correctamente
+3. Crea una oración y concatenarla con las palabras que el usuario ingresa
+4. Imprime la oracion final en el navegador
