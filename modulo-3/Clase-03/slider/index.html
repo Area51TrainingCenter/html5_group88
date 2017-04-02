@@ -1,0 +1,68 @@
+<!doctype>
+<html>
+	<head>
+	<!-- Place somewhere in the <head> of your document -->
+<link rel="stylesheet" href="css/flexslider.css" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script src="js/jquery.flexslider.js"></script>
+		<style>
+			.wrapper{
+				width: 600px;
+				margin:0 auto;
+			}
+		.title-slide{
+			background-color: rgba(0,0,0,0.5);
+			padding: 10px;
+			color: white;
+			font-size: 20px;
+			font-family: arial;
+		}
+		</style>
+
+	</head>
+
+	<body>
+		<div class="wrapper">
+			
+			<!-- Place somewhere in the <body> of your page -->
+		<div class="flexslider">
+		  <ul class="slides">
+		    <li>
+		      <img src="http://lorempixel.com/400/200/" />
+		      <p class="title-slide">TITULO DE IMAGEN</p>
+		    </li>
+		    <li>
+		      <img src="http://lorempixel.com/400/200/" />
+		    	<p class="title-slide">TITULO DE IMAGEN</p>
+		    </li>
+		    <li>
+		      <img src="http://lorempixel.com/400/200/" />
+		    	<p class="title-slide">TITULO DE IMAGEN</p>
+		    </li>
+		  </ul>
+		</div>
+
+
+
+		</div>
+	</body>
+</html>
+
+<!-- Place in the <head>, after the three links -->
+<script type="text/javascript" charset="utf-8">
+  
+
+$(window).load(function(){
+
+$('.flexslider').flexslider({
+	animation:"slide"
+});
+
+
+
+})
+
+
+
+
+</script>
